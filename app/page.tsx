@@ -23,7 +23,7 @@ export default function Home() {
               Hello, I&apos;m
             </h2>
             <h1 className="text-lightSky text-5xl md:text-7xl tracking-normal">
-              Memoona Saleem
+              Kashif Hussain  
             </h1>
           </div>
 
