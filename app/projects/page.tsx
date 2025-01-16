@@ -14,7 +14,7 @@ import { useState } from "react";
 import Image from "next/image";
 
 import project1 from "./images/project1.png";
-import project2 from "./images/project2.png";
+import project2 from "./images/project2.png";   
 import project3 from "./images/project3.png";
 import project4 from "./images/project4.png";
 import { Separator } from "@radix-ui/react-separator";
@@ -36,7 +36,7 @@ const Projects = [
       "A simple and aesthetic notes app that allows users to create, edit, and delete notes. Using the cool features of JavaScript to make it happen while using HTML and CSS to make it interactive for user.",
     stack: ["HTML", "CSS", "JavaScript"],
     image: project1,
-    githubUrl: "https://github.com/Memoona-tech/Notes-App",
+    githubUrl: "https://github.com/kashif-hussain6/Notes-App",
   },
   {
     id: "02",
@@ -46,7 +46,7 @@ const Projects = [
       "A simple and clean analogue clock that displays the current time. Using mathematical formula to measure the actual time but making it happen through JS, design provided by CSS.",
     stack: ["HTML", "CSS", "JavaScript"],
     image: project2,
-    githubUrl: "https://github.com/Memoona-tech/Analog-Clock",
+    githubUrl: "https://github.com/kashif-hussain6/Analog-Clock",
   },
   {
     id: "03",
@@ -56,7 +56,7 @@ const Projects = [
       "Weather app that allows users to search for the weather of any city in the world. Huge role of API and functionality of JavaScript combined with the beauty oh HTML and CSS. ",
     stack: ["HTML", "CSS", "JavaScript" , "API"],
     image: project3,
-    githubUrl: "https://github.com/Memoona-tech/Weather-App",
+    githubUrl: "https://github.com/kashif-hussain6/Weather-App",
   },
   {
     id: "04",
@@ -66,7 +66,7 @@ const Projects = [
       "A simple and clean calculator app that performs basic arithmetic operations on interger as well as floating point numbers.",
     stack: ["HTML", "CSS", "JavaScript"],
     image: project4,
-    githubUrl: "https://github.com/Memoona-tech/Calculator",
+    githubUrl: "https://github.com/kashif-hussain6/Calculator",
   },
 ];
 

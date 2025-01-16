@@ -36,7 +36,7 @@ const Sidebar: React.FC<Props> = ({ isOpen, onClose, pathName }: Props) => {
 
 
       <nav className="flex flex-col px-5 gap-7 uppercase text-sm tracking-wide font-medium mt-2">
-        <Logo title="Memoona" subtitle="." />
+        <Logo title="kashif" subtitle="." />
 
 
         {navbarData?.map((item) => (

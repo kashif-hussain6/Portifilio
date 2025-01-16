@@ -7,12 +7,12 @@ const socialData = [
   {
     title: "Github",
     icon: <Github />,
-    href: "https://github.com/Memoona-tech",
+    href: "https://github.com/kashif-hussain6",
   },
   {
     title: "LinkedIn",
     icon: <Linkedin />,
-    href: "https://www.linkedin.com/in/memoonasaleem/",
+    href: "https://www.linkedin.com/in/kashif-hussain64/",
   },
   {
     title: "YouTube",
