@@ -11,8 +11,8 @@ const jetbrains = localFont({
   weight: "100 800",
 });
 export const metadata: Metadata = {
-  title: "Memoona | CS Student",
-  description: "Portfolio of Memoona Saleem",
+  title: "Kashif hussain | CS Student",
+  description: "Portfolio of Kashif Hussain ",
 };
 
 export default function RootLayout({
