@@ -7,17 +7,17 @@ import React from "react";
 const infoData = [
   {
     title: "Phone",
-    details: "+92 300 0000000",
+    details: "+923129776466",
     icon: <Phone />,
   },
   {
     title: "Email",
-    details: "cuteskiesquery@gmail.com",
+    details: "kashifdaya4@gmail.com",
     icon: <Mail />,
   },
   {
     title: "Address",
-    details: "Punjab, Pakistan",
+    details: "Gilgit, Pakistan",
     icon: <MapPinCheck />,
   },
 ];
